@@ -1,0 +1,9 @@
+#!/bin/bash
+
+BIN_DIR=$(dirname ${BASH_SOURCE[0]})
+FULL_BIN_DIR=$(cd $BIN_DIR && pwd)
+INSTALL_DIR=$(dirname $FULL_BIN_DIR)
+LIB_DIR=$INSTALL_DIR/lib
+
+CP=$(for f in $(find $LIB_DIR -name '*.jar') ; do echo -n $f":" ; done)
+java -cp $CP net.sf.saxon.Query $@

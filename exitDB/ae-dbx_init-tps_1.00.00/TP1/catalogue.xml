@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ox:formations xmlns:ox="com:oxiane:formation">
+  <ox:formation id="AE-DBX">
+    <titre>XQuery et Bases de données XML</titre>
+    <description>Cette formation vous permettra d'exploiter des bases de données XML.</description>
+    <duree>24</duree>
+  </ox:formation>
+  <ox:formation is="XD-XML">
+    <titre>Concevoir et mettre en œuvre avec XML</titre>
+    <description>Cette formation présente les bases de XML, et les différentes technologies utilisables avec XML.</description>
+  </ox:formation>
+  <ox:formation id="XS-XSL2">
+    <titre>Transformer des documents avec XSLT</titre>
+    <description>Maitriser le développement des transformations XSLT et organiser ses bibliothèques de transformations</description>
+  </ox:formation>
+  <ox:formation id="AE-JREST">
+    <titre>REST en Java</titre>
+    <description>Mettre en oeuvre une architecture de services légère REST avec Jax-RS Jersey</description>
+  </ox:formation>
+</ox:formations>

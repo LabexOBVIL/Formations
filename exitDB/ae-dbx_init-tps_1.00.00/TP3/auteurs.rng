@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<grammar ns="com:oxiane:formation:xml:auteurs" xmlns="http://relaxng.org/ns/structure/1.0" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes">
+  <start>
+    <element name="auteurs">
+      <oneOrMore>
+        <element name="auteur">
+          <element name="id">
+            <text/>
+          </element>
+          <element name="nom">
+            <data type="NCName"/>
+          </element>
+          <optional>
+            <element name="prenom">
+              <data type="NCName"/>
+            </element>
+          </optional>
+        </element>
+      </oneOrMore>
+    </element>
+  </start>
+</grammar>

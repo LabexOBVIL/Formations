@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="livres.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<livres xmlns="com:oxiane:formation:xml:livres" xmlns:text="com:oxiane:formation:text">
+  <livre>
+    <auteurs>
+      <auteur refid="c35daebc-63a6-11ea-bc55-0242ac130003"/>
+      <auteur refid="221b3bd6-63a7-11ea-bc55-0242ac130003"/>
+    </auteurs>
+    <titre>Les secrets Mayas</titre>
+    <isbn>978-2-253-23740-2</isbn>
+    <resume>
+      <text:p>Lorsque le volcan Tacaná entre en éruption au Mexique, Sam et Remi Fargo - alors en
+      vacances non loin de là - se joignent aux équipes de secours. En chemin pour apporter
+      un soutien médical aux habitants d'un village isolé, le couple d'aventuriers remarque
+      un étrange bloc de pierre et découvre dans la roche l'entrée d'un sanctuaire, parfaitement
+      conservé. A l'intérieur, la momie d'un haut dignitaire maya et une jarre qui renferme un
+      codex contenant de précieux enseignements sur les Mayas, leurs villesn et les origines
+      de l'homme.</text:p>
+      <text:p>Cette découverte majeure attise les convoitises de la collectionneuse Sarah Allersby,
+      héritière sans scrupules. Tous les coups sont permis, et les hommes de main de la riche
+      Britannique sont prêts à tuer pour récupérer l'inestimable codex. Beaucoup d'innocents y
+      laisseront leur vie car l'enjeu est de taille : préserver les secrets mayas et ceux de
+      l'humanité toute entière.</text:p>
+    </resume>
+  </livre>
+  <livre>
+    <auteurs>
+      <auteur refid="d75056f4-63a6-11ea-bc55-0242ac130003"/>
+    </auteurs>
+    <titre>Le sauveur</titre>
+    <sous-titre>Une enquête de l'inspecteur Harry Hole</sous-titre>
+    <isbn>978-2-07-077667-2</isbn>
+    <resume>
+      <text:p>Noël à Oslo. L'armée du Salut met les bouchées doubles pour venir en aide aux exclus
+      de la ville. Afin de récolter des fonds, les membres de l'association ont décidé d'organiser
+      un concert public : de nombreuses rock stars locales, ainsi que le Premier ministre en
+      personne doivent y participer. Mais, dans l'ombre, une guerre de succession fait rage : qui
+      remplacera le vieillissant David Esckhoff qui dirige l'Armée du Salut d'Oslo depuis des
+      décennies ? Le calme et posé Jon Karlsen ou le plus dévoué et docile Rikard Nilsen ?</text:p>
+      <text:p>Le soir du spectacle, en plein concert, un homme tire dans la foule et tue un membre
+      de l'Armée du Salut avant de parvenir à s'enfuir en direction de l'aéroport. La victime n'est
+      autre que Robert Kalrsen, le frère jumeau de Jon...</text:p>
+      <text:p>Naviguant entre déprime et amertume, la tête noyée dans le Jim Beam, Harry Hole va se
+      remettre en selle grâce à cette enquête. Bloqué à l'aéroport par une tempête de neige, le 
+      mystérieux tueur apprend le lendemain dans le journal qu'il n'a pas tiré sur la bonne cible,
+      mais sur son frère ! Alors qu'Harry Hole se lance à sa poursuite dans les rues verglacées de la
+      capitale norvégienne, le meurtrier se met àvla recherche de sa victime pour exécuter son contrat.
+      Le jeu sanglant du chat et de la souris ne fait que commencer...</text:p>
+    </resume>
+  </livre>
+  <livre>
+    <auteurs>
+      <auteur refid="66133fec-63a6-11ea-bc55-0242ac130003"/>
+    </auteurs>
+    <titre>Croc Blanc</titre>
+    <isbn>2-205-01999-6</isbn>
+    <resume>
+      <text:p>Quel prodigieux destin que celui de Croc-Blanc ! Jack London nous conte son histoire dans
+      ce récit plein de verve et de passion, où les péripéties s'enchaînent sans laisser le temps au
+      lecteur de reprendre son souffle. Mâtiné de loup et de chien, Croc-Blanc est né dans le Wild,
+      région hostile et sauvage, où mille dangers menacent ceux qui s'y aventurent. Chien de traineau,
+      puis chien de combat, Croc-Blanc devra faire face à des situations toujours difficiles et souvent
+      dramatiques. Mais son courage, sa force et sa ruse lui permettront finalement de gagner cette
+      bataille quotidienne pour survivre. Recueilli par Weedon Scott, jeune ingénieur des mines,
+      Croc-Blanc émigrera vers le sud et, rendu doux et docile par la gentillesse de son nouveau maître,
+      il s'acclimatera très bien à la vie civilisée.</text:p>
+    </resume>
+  </livre>
+  <livre>
+    <auteurs>
+      <auteur refid="61eb5c6a-63a6-11ea-bc55-0242ac130003"></auteur>
+    </auteurs>
+    <titre>Un homme à la mer</titre>
+    <isbn>978-2-07-034452-9</isbn>
+    <resume>
+      <text:p>L'une des situations idéales de la littérature est une conversation de bar, la nuit, dans un
+      port entre un homme et une femme. Ils y parlaient d'un monde qui s'écroule, de guerres lointaines,
+      de la beauté des longs courriers et des aubes bien plus splendides que les couchers de soleil. Bien
+      évidemment, ils boiraient autant qu'ils le souhaiteraient. Il est donc possible d'envisager la
+      présence d'un barman. Et peut-être même d'un piano. Admettons que ce journal de bord réunisse au
+      creux de la nuit, les éclats alcoolisés de cette conversation amoureuse.</text:p>
+    </resume>
+  </livre>
+  <livre>
+    <auteurs>
+      <auteur refid="4d8e9728-63a6-11ea-bc55-0242ac130003"/>
+    </auteurs>
+    <titre>Gorgias</titre>
+    <isbn>2-08-070465-6</isbn>
+    <resume>
+      <text:p>Mais regarde, bienheureux, si la noblesse et la beauté d'âme ne consiste qu'à sauver la vie !
+      Car cette vie, cette vie unique, c'est en fait ce qu'un homme, vraiment homme, doit laisser de côté,
+      ce n'est pas à cela qu'il doit dévouer l'amour de son âme...</text:p>
+      <text:p>Non, ce qu'on doit plutôt chercher à savoir, c'est de quelle façon on doit vivre sa vie pour
+      qu'elle la meilleure possible... Personne n'a peur de la mort, si on la prend pour ce qu'elle est,
+      ou alors il faut être incapable de faire le moindre raisonnement et ne pas être vraiment un 
+      homme - non, ce qui fait peur, c'est l'idée qu'on a pas été juste.</text:p>
+    </resume>
+  </livre>
+  <livre>
+    <auteurs>
+      <auteur refid="be321d70-63a5-11ea-bc55-0242ac130003"/>
+    </auteurs>
+    <titre>La planète des singes</titre>
+    <isbn>30-11-2706-01</isbn>
+  </livre>
+  <livre>
+    <auteurs>
+      <auteur refid="6ce12f32-63a6-11ea-bc55-0242ac130003"/>
+    </auteurs>
+    <titre>La fête des perles</titre>
+    <isbn>2-990-04778-3</isbn>
+    <resume>
+      <text:p>J'ai été violemment heurté par ce véhicule en stationnement...</text:p>
+      <text:p>Mon père touche la demi-pension de ma mère qui est veuve comme lui...</text:p>
+      <text:p>Il est aveugle et en plus il ne peut pas fermer l'œil de la nuit...</text:p>
+      <text:p>Ronchonner, contester, pinailler, gémir ou réclamer des sous : les Français sont
+      spécialistes ! Surtout quand il s'agit d'écrire à l'administration, à leur assureur, à
+      leur banquier, à leur maire...</text:p>
+      <text:p>Tous rigoureusement authentiques, les 2000 extraits de lettres qui composent ce
+      florilège ont été recueilli par les fonctionnaires eux-mêmes qui, au fil des années,
+      conservent précieusement les missives les plus drôles, celles où l'insolite le dispute
+      à l'ignorance, où la maladresse flirte avec la mauvaise foi.</text:p>
+      <text:p>Ce livre en est la preuve par le rire : la réalité dépasse toujours la fiction !</text:p>
+    </resume>
+  </livre>
+  <livre>
+    <auteurs>
+      <auteur refid="8ad0fe24-63a5-11ea-bc55-0242ac130003"/>
+    </auteurs>
+    <titre>La mémoire d'Abraham</titre>
+    <isbn>2-266-02544-9</isbn>
+    <resume>
+      <text:p>Deux mille ans d'histoire d'une famille juive : de cette aube de l'an 70 où le scribe Abraham
+      quitte Jérusalem en flammes, à ce jour, en 1943, où l'imprimeur Abraham Halter meurt sous les
+      ruines du ghetto de Varsovie. Cent générations qui, à travers les siècles et les tribulations,
+      du proche Orient à l'Afrique du Nord et l'Europe entière, se sont transmis le "livre familial",
+      mémoire de l'exil jusqu'à Marek Halter, le dernier "scribe", qui, aujourd'hui, recrée pour nous
+      la grande aventure... Une œuvre exemplaire, chargée d'humanité et de vérité, où passe le souffle
+      de l'histoire et l'âme d'un peuple.</text:p>
+    </resume>
+  </livre>
+  <livre>
+    <auteurs>
+      <auteur refid="c35daebc-63a6-11ea-bc55-0242ac130003"/>
+    </auteurs>
+    <titre>La poursuite</titre>
+    <isbn>978-2-253-15852-3</isbn>
+    <resume>
+      <text:p>1950. La carcasse rouillée d'une locomotive à vapeur émerge des profondeurs d'un lac du
+      Montana. A l'intérieur, les restes de trois personnes mortes quarante-quatre ans plus tôt.</text:p>
+      <text:p>1906. Depuis deux ans l'Ouest Américain connait une vague d'attaques de banques. Le
+      malfaiteur agit seul et assassine de sang froid tous les témoins avant de disparaitre. Incapable
+      de mettre un terme aux agissement du "Boucher", le gouvernement Américain fait intervenir le
+      meilleur de ses agents : Isaac Bell, de l'agence des détectives Van Dorn.</text:p>
+      <text:p>De l'Arizona au Colorado, en passant par San-Francisco dévasté par le séisme de 1906, Isaac
+      Bell traque celui qui apparait comme le plus grand cerveau criminel de tous les temps. Lorsque
+      celui-ci décide de risposter, Bell doit faire appel à tout son talent non seulement pour l'emporter,
+      mais pour en réchapper. Le chasseur qu'il était est devenu la proie...</text:p>
+    </resume>
+  </livre>
+  <livre>
+    <auteurs>
+      <auteur refid="d75056f4-63a6-11ea-bc55-0242ac130003"/>
+    </auteurs>
+    <titre>Le bonhomme de neige</titre>
+    <isbn>978-2-07-078641-1</isbn>
+    <resume>
+      <text:p>Oslo, novembre 2004, la première neige tombe sur la ville. Dans le jardin familial des
+      Becker, un bonhomme de neige fait irruption, comme sortit de nulle part. Le jeune fils
+      remarque qu'il est tourné vers la maison et que ses grands yeux noirs regardent fixement leur fenêtre.
+      Dans la nuit, Birte, la mère, disparaît, laissant pour seule trace, son écharpe rose, retrouvée
+      autour du cou du bonhomme de neige...</text:p>
+      <text:p>Dans le même temps, l'inspecteur Harry Hole, reçoit une lettre signée "Le bonhomme de neige",
+      qui lui annonce d'autres victimes. Plongeant son nez dans les dossiers de la police, Harry met en
+      lumière une vague de disparitions parmi les femmes mariées et mères de famille de Norvège. Toutes
+      n'ont plus donné signe de vie le jour de la première neige...</text:p>
+      <text:p>D'une sobriété étonnate, Harry Hole va se retrouver confronté, pour la première fois de
+      sa carrière, à un tueur en série agissant sur le territoire Norvégien, et qui le conduira jusqu'au
+      gouffre de sa folie...</text:p>
+    </resume>
+  </livre>
+  <livre>
+    <auteurs>
+      <auteur refid="9f59a266-69ee-11ea-bc55-0242ac130003"/>
+    </auteurs>
+    <titre>Harry Potter à l'école des sorciers</titre>
+    <isbn>978-2-07-062452-2</isbn>
+    <resume>
+      <text:p>"Il va devenir célèbre - une véritable légende vivante -, je ne serais pas étonnée que la
+      date d'aujourd'hui devienne dans l'avenir la fête de Harry Potter. On écrira des livres sur lui.
+      Tous les enfants de notre monde connaîtrons son nom.</text:p>
+      <text:p>Minerva McGonnagall</text:p>
+    </resume>
+  </livre>
+</livres>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<grammar ns="com:oxiane:formation:xml:livres" xmlns:text="com:oxiane:formation:text" xmlns="http://relaxng.org/ns/structure/1.0">
+  <start>
+    <element name="livres">
+      <oneOrMore>
+        <element name="livre">
+          <element name="auteurs">
+            <oneOrMore>
+              <element name="auteur">
+                <attribute name="refid"/>
+              </element>
+            </oneOrMore>
+          </element>
+          <element name="titre">
+            <text/>
+          </element>
+          <optional>
+            <element name="sous-titre">
+              <text/>
+            </element>
+          </optional>
+          <element name="isbn">
+            <text/>
+          </element>
+          <optional>
+            <element name="resume">
+              <oneOrMore>
+                <element name="text:p">
+                  <text/>
+                </element>
+              </oneOrMore>
+            </element>
+          </optional>
+        </element>
+      </oneOrMore>
+    </element>
+  </start>
+</grammar>

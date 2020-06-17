@@ -1,0 +1,1 @@
+<aujourdhui>{current-date()}</aujourdhui>
